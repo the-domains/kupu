@@ -4,8 +4,15 @@
         <description><![CDATA[kupu]]></description>
         <link>https://thegrid.ai/kupu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 09:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 10:10:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kupu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>hoahoa</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f18c2289f62577e9a91536082c3b13f601e5a30.png"></article>]]></description>
+            <link>urn:uuid:82b43469-b6ee-4b30-8660-f5b74fdc9334</link>
+            <guid isPermaLink="false">77b229d7-e4fb-4841-ac5a-fdab4fa1fdba</guid>
+            <pubDate>Tue, 12 Apr 2016 10:09:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e9e9f36-89e5-4beb-ab5f-8a3189f1cb3d.jpg">]]></description>
