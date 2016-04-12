@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[kupu]]></title>
         <description><![CDATA[kupu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kupu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 09:05:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 09:45:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kupu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>whetu</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b60685-b38c-4988-90ec-d71edbb4967c.png"></article>]]></description>
+            <link>urn:uuid:9bab2acb-a477-47e8-ade9-79e72348f3e3</link>
+            <guid isPermaLink="false">5b0eda5a-d86b-46c2-afa6-10802e116475</guid>
+            <pubDate>Tue, 12 Apr 2016 09:45:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Raarangi]]></title>
             <description><![CDATA[<article><h1>Raarangi</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3a68857-ece4-48cb-a3aa-baeac143671f.png"></article>]]></description>
